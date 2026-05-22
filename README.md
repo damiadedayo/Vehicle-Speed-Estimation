@@ -1,6 +1,6 @@
 # Calibration-Free Vehicle Speed Estimation Using Computer Vision
 
-A vision-based vehicle speed estimation pipeline that operates on monocular video footage from a fixed roadside camera — **no camera calibration required**.
+A vision-based vehicle speed estimation pipeline that operates on monocular video footage from a fixed roadside camera without camera calibration.
 
 Built as a final year project at Staffordshire University (BSc Artificial Intelligence & Robotics, 2026).
 
